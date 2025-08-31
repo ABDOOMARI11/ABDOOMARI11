@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 I'm Currently Working On: Web & mobile developement.<br><br>🤝 I'm Looking to Collaborate On: Exciting full-stack projects.<br><br>🆘 I'm Looking for Help With: Node.js & laravel & Java (spring boot) backend optimizations.<br><br>📚 I'm Currently Learning: Advanced React.js & Angular js techniques.<br><br>🎉 Fun Fact: I like to share my knowlodge and learn something new every day
+🔧 I'm Currently Working On: Web & mobile developement.<br><br>🤝 I'm Looking to Collaborate On: Exciting full-stack projects.<br><br>🆘 I'm Looking for Help With: Django & laravel & Java (spring boot) backend optimizations.<br><br>📚 I'm Currently Learning: Advanced React.js & Angular js techniques.<br><br>🎉 Fun Fact: I like to share my knowlodge and learn something new every day
 
 
 ## 🌐 Socials:
